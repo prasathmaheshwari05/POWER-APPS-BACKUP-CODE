@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/comparisonresults.tsx","./src/components/fileupload.tsx","./src/components/tabs.tsx","./src/components/usercomparison.tsx","./src/types/index.ts","./src/utils/comparisonlogic.ts","./src/utils/excelexport.ts"],"version":"5.6.3"}
